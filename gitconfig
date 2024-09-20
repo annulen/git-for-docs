@@ -1,0 +1,2 @@
+[diff "astextplain"]
+	textconv = astextplain
