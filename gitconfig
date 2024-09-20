@@ -1,2 +1,3 @@
 [diff "astextplain"]
-	textconv = astextplain
+	textconv = run-mailcap --action=cat
+	#textconv = astextplain
